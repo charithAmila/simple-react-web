@@ -27,7 +27,7 @@ const sampleData = [
 
 const onChangeIndustry = jest.fn();
 
-describe("CardList component", () => {
+describe("CardList", () => {
   test("Data should be render correctly", () => {
     render(
       <CardList
