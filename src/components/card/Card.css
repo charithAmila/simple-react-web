@@ -1,0 +1,37 @@
+.cards {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 60px;
+}
+.card-raw {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 30px;
+  flex-wrap: wrap;
+}
+.card-raw .card {
+  width: 585px;
+}
+.card-raw .card img {
+  height: 500px;
+}
+.card h3 {
+  font-size: 15px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  color: #939393;
+  text-transform: uppercase;
+}
+
+.card h2 {
+  font-family: Teko;
+  font-size: 30px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.07;
+  letter-spacing: normal;
+}

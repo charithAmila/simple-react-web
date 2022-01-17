@@ -1,0 +1,87 @@
+.main {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero {
+  height: 100vh;
+  background-image: url(../assets/Header.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.hero h1 {
+  width: 798px;
+  height: 400px;
+  margin: 80px 232px 249px 0;
+  font-family: Teko;
+  font-size: 400px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  margin-top: 161px;
+}
+.hero .view-case-btn {
+  width: 170px;
+  height: 50px;
+  background-color: #000;
+  position: absolute;
+  top: 90%;
+  border-style: solid;
+  border: 0px;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+  right: 100px;
+}
+
+/* Filters sections */
+.filter-section {
+  height: 100px;
+  padding-left: 100px;
+  padding-right: 100px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.filters form {
+  display: flex;
+  margin-top: 60px;
+}
+
+.filters form .form-input-all-word {
+  margin-right: 43px;
+}
+
+.filters form label {
+  font-family: Teko;
+  font-size: 30px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.07;
+  letter-spacing: normal;
+  color: #a3a3a3;
+}
+
+.filters form select {
+  font-family: Teko;
+  font-size: 30px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.07;
+  letter-spacing: normal;
+  border: 0px;
+}

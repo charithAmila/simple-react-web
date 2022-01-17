@@ -1,0 +1,83 @@
+{
+  "items": [
+    {
+      "imageUrl": "data/images/bolcom.png",
+      "company": "Bol.com",
+      "title": "A summer island in the Netherlands",
+      "industries": ["Tourism"]
+    },
+    {
+      "imageUrl": "data/images/kempen.png",
+      "company": "Kempen",
+      "title": "Not some average banking website",
+      "industries": ["Finance"]
+    },
+    {
+      "imageUrl": "data/images/philips.png",
+      "company": "Philips",
+      "title": "Beautiful design meets innovative technology",
+      "industries": ["Electronics", "IT"]
+    },
+    {
+      "imageUrl": "data/images/gemeentemuseum.png",
+      "company": "Gemeentemuseum",
+      "title": "A 100 years of Mondriaan & De Stijl",
+      "industries": ["Art"]
+    },
+    {
+      "imageUrl": "data/images/florensis.png",
+      "company": "Florensis",
+      "title": "Rethinking the entire online ecosystem",
+      "industries": ["IT", "Electronics"]
+    },
+    {
+      "imageUrl": "data/images/lightning.png",
+      "company": "Be Lighting",
+      "title": "Delivering clarity on a global scale",
+      "industries": ["Tourism", "Finance"]
+    },
+    {
+      "imageUrl": "data/images/tui.png",
+      "company": "TUI",
+      "title": "Swipe to find your next holiday destination",
+      "industries": ["Tourism"]
+    },
+
+    {
+      "imageUrl": "data/images/chocomel.png",
+      "company": "Chocomel",
+      "title": "A campaign for the limited edition letter packs",
+      "industries": ["Food"]
+    },
+    {
+      "imageUrl": "data/images/jbl.png",
+      "company": "JBL",
+      "title": "Live like a champion with Jerome Booteng",
+      "industries": ["Electronics"]
+    },
+    {
+      "imageUrl": "data/images/zalando.png",
+      "company": "zalando",
+      "title": "Innovative SEO and content strategy for Zalando",
+      "industries": ["Tourism", "Finance", "IT"]
+    },
+    {
+      "imageUrl": "data/images/koninklijke-bibliotheek.png",
+      "company": "Koninklijke Bibliotheek",
+      "title": "The search for the most influential book ever",
+      "industries": ["Art"]
+    },
+    {
+      "imageUrl": "data/images/liberty-global.png",
+      "company": "Liberty Global",
+      "title": "Delivering complex commerce solutions",
+      "industries": ["Art"]
+    },
+    {
+      "imageUrl": "data/images/arla.png",
+      "company": "Arla",
+      "title": "Swipe to find your next holiday destination",
+      "industries": ["Tourism"]
+    }
+  ]
+}

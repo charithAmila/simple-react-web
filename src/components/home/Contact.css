@@ -1,0 +1,87 @@
+.contact-content {
+  height: auto;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 80px;
+  display: flex;
+  padding-bottom: 80px;
+}
+
+.contact-content p {
+  font-family: Teko;
+  font-size: 60px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: normal;
+  flex: 1;
+}
+
+.contact-content .contact-from-wrapper {
+  flex: 2;
+}
+.contact-content .contact-from-wrapper form .from-element-raw {
+  display: flex;
+}
+.contact-content .contact-from-wrapper form .from-element-raw div {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+.contact-content .contact-from-wrapper form label {
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+}
+.contact-content .contact-from-wrapper form {
+  margin-left: 20px;
+}
+.contact-content .contact-from-wrapper form .from-element-raw {
+  margin-top: 40px;
+}
+
+.contact-content .contact-from-wrapper form input {
+  border: 0px;
+  border-bottom: 1px solid #dddddd;
+  width: 90%;
+}
+
+.contact-content .contact-from-wrapper form textarea {
+  border: 0px;
+  border-bottom: 1px solid #dddddd;
+  width: 45%;
+}
+
+.contact-content .contact-from-wrapper form .submit-btn {
+  margin-top: 30px;
+  width: 140px;
+  height: 50px;
+  background-color: #1a18f7;
+  border-style: solid;
+  border: 0px;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 2;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+}
+.contact-content .contact-from-wrapper form .form-error {
+  margin-top: 10px;
+  font-family: Arial;
+  font-size: 13px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ff2929;
+}
