@@ -4,13 +4,15 @@ First clone the project.
 
 ### `git clone git@github.com:charithAmila/simple-react-web.git`
 
-In the project directory, you can run:
+Install the dependencies:
 
 ### `npm install`
 
 or
 
 ### `yarn`
+
+In the project directory, you can run:
 
 ### `yarn start`
 
